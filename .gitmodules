@@ -1,0 +1,3 @@
+[submodule "FluiTec.AppFx.Console"]
+	path = FluiTec.AppFx.Console
+	url = git@github.com:FluiTec/FluiTec.AppFx.Console.git
